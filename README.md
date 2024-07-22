@@ -7,9 +7,8 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://tenor.com/view/drawing-sword-mizu-blue-eye-samurai-let's-fight-duel-gif-11112287073923542344"  />
+  <img height="200" src="./samurai.gif" alt="Samurai GIF" />
 </div>
-
 
 <h3 align="left">Languages</h3>
 
@@ -31,28 +30,26 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 </div>
 
-<h3 align="left">Libraries</h3>
-
 ###
 
+<h3 align="left">Libraries</h3>
 <p align="left">  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-
-<h3 align="left">Database</h3>
-
 ###
 
+<h3 align="left">Database</h3>
 <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 ###
 
 <h3 align="left">Connect with Me</h3>
-
-###
-
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/lou-meziere/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -65,6 +62,35 @@
 
 ###
 
-<p align="left">⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⣿⢻⣷⣾⢯⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠛⡻⠋⠈⠁⠊⠸⠧⢡⠘⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⡿⣻⣿⢿⠻⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⡿⠩⠙⣟⢸⣸⡿⣿⣿⣿⣿⣿⠟⡜⠘⠁⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠅⠁⠀⠠⠨⠷⡨⣟⠋⠓⠙⠊⠀⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⣤⣤⣤⣤⣤⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠁⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⠟⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠑⠛⠟⠙⠛⢻⣿⣿⣿⣿⣿⣟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠞⣿⣿⣿⣿⣿⣿⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣼⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢠⣴⣿⣿⣿⣿⣿⣿⣿⣯⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡀⠀⢀⡴⣾⣿⣿⣿⣿⣿⣿⣿⡟⣿⣿⣞⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢉⣻⣾⣶⣾⣻⣿⡿⣿⣿⣟⡍⡲⣽⣯⠄⠬⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂⠀⠀⠈⢐⠂⠒⠒⠋⠉⣹⣽⣩⢽⣿⡯⣽⠽⠋⢧⡳⣽⡿⣗⣡⡄⢚⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠀⠀⢀⠠⣚⡾⠔⠊⠿⣩⢙⣩⣙⡷⢽⣻⣿⣿⡟⡅⡐⡎⢷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠤⠂⠉⠉⠀⠀⠠⠁⣼⣅⡺⠁⠚⣲⣯⣽⢿⣿⡟⡏⢷⣧⠾⣥⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠄⠊⠠⠠⠀⠠⡀⢀⡤⣁⢈⣞⡇⠔⠩⣝⣿⣾⣿⡿⣿⣧⡗⣿⣋⣭⡷⢃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠶⠁⠀⠀⠀⠰⠂⠒⠸⠻⢿⣩⣿⢿⣷⠄⢠⣾⣿⣿⣿⣿⣽⣿⣷⣽⣭⣟⡔⠈⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢄⠀⠀⠀⠠⠁⠀⠀⠀⢁⢐⡿⡿⣾⣽⣭⠛⠙⢻⣿⣿⣿⣿⣿⣿⣾⣿⣿⡿⠟⡛⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢷⢄⠀⠎⠀⡴⢃⣀⠁⡰⠀⢘⣿⣿⡿⣞⣼⠻⣾⣿⣿⣿⣿⣿⣻⣿⣇⣏⣼⠇⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠳⡓⣅⠐⠁⠀⠀⡜⠁⡀⣸⣿⣻⣭⣮⣴⠯⣟⣿⣿⣿⣿⣿⣿⣿⣿⢷⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⡾⣾⣶⣄⣡⣞⡀⠀⡸⢿⣻⢩⣾⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣯⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠊⠠⢱⣿⣿⣿⣿⣿⣿⣿⠗⡯⣷⣿⣿⡿⡟⠏⠈⠓⣽⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡐⢪<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠫⠳⡤⢳⣿⣿⣿⣿⣿⣿⡧⢤⢻⢿⣋⠏⠀⠑⢱⣤⡀⢁⣿⣿⣿⣿⣷⣯⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠌⡓<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠫⣥⢿⣿⣿⣿⡿⢿⣶⣿⢿⣡⣴⢀⠂⡁⣩⣐⣮⣾⣿⣿⣿⣿⢿⣭⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⣣⢶⣩⣞<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠋⠀⠑⣿⠃⠀⢹⢻⣷⣿⣿⣮⣼⣷⣿⣽⣿⣿⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢨⣿⣽⣿⣿⣿⣿<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡏⠀⠀⢨⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣭⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣞⣿⣿⣿⣿⣿⣿<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⠁⠀⠠⣾⣿⣽⣰⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣺⣽⣿⣯⣿⣿⣿⣿<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠃⠀⠀⠀⠈⠻⣯⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠱⠻⢋⣽⣿⣿⣿⣿<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢉⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣥⣤⣤⣤⣤⣀⣀⡀⡀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣶⣶⣷⣶⣶⣶⣿⣿⣿⣿⣿⣿<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣤⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠛⣻⣿⣿⣿⣿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣴⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿<br>⠀⣠⠶⣥⣤⣠⣴⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</p>
+<p align="center">
+  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⣿⢻⣷⣾⢯⠐<br>
+  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠛⡻⠋⠈⠁⠊⠸⠧⢡⠘⠈⠁<br>
+  ⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⡿⣻⣿⢿⠻⠁⠀⠀⠀⠀⠀⠀<br>
+  ⡿⠩⠙⣟⢸⣸⡿⣿⣿⣿⣿⣿⠟⡜⠘⠁⠉⠀⠀⠀⠀⠀⠀⠀⠀<br>
+  ⠅⠁⠀⠠⠨⠷⡨⣟⠋⠓⠙⠊⠀⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⣤⣤⣤⣤⣤⣀⣀⣀<br>
+  ⠁⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⠟⠛<br>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠑⠛⠟⠙⠛⢻⣿⣿⣿⣿⣿⣟<br>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠞⣿⣿⣿⣿⣿⣿⠠<br>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣼⣿⣿⣿⣿⣿⣿<br>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢠⣴⣿⣿⣿⣿⣿⣿⣿⣯⣿⣄<br>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡀⠀⢀⡴⣾⣿⣿⣿⣿⣿⣿⣿⡟⣿⣿⣞⣦<br>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢉⣻⣾⣶⣾⣻⣿⡿⣿⣿⣟⡍⡲⣽⣯⠄⠬⣆<br>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂⠀⠀⠈⢐⠂⠒⠒⠋⠉⣹⣽⣩⢽⣿⡯⣽⠽⠋⢧⡳⣽⡿⣗⣡⡄⢚⡀<br>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠀⠀⢀⠠⣚⡾⠔⠊⠿⣩⢙⣩⣙⡷⢽⣻⣿⣿⡟⡅⡐⡎⢷⡀<br>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠤⠂⠉⠉⠀⠀⠠⠁⣼⣅⡺⠁⠚⣲⣯⣽⢿⣿⡟⡏⢷⣧⠾⣥<br>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠄⠊⠠⠠⠀⠠⡀⢀⡤⣁⢈⣞⡇⠔⠩⣝⣿⣾⣿⡿⣿⣧⡗⣿⣋⣭⡷⢃<br>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠶⠁⠀⠀⠀⠰⠂⠒⠸⠻⢿⣩⣿⢿⣷⠄⢠⣾⣿⣿⣿⣿⣽⣿⣷⣽⣭⣟⡔⠈⡆<br>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢄⠀⠀⠀⠠⠁⠀⠀⠀⢁⢐⡿⡿⣾⣽⣭⠛⠙⢻⣿⣿⣿⣿⣿⣿⣾⣿⣿⡿⠟⡛⡄<br>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢷⢄⠀⠎⠀⡴⢃⣀⠁⡰⠀⢘⣿⣿⡿⣞⣼⠻⣾⣿⣿⣿⣿⣿⣻⣿⣇⣏⣼⠇⠁<br>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠳⡓⣅⠐⠁⠀⠀⡜⠁⡀⣸⣿⣻⣭⣮⣴⠯⣟⣿⣿⣿⣿⣿⣿⣿⣿⢷⠁<br>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⡾⣾⣶⣄⣡⣞⡀⠀⡸⢿⣻⢩⣾⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣯⢸<br>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠊⠠⢱⣿⣿⣿⣿⣿⣿⣿⠗⡯⣷⣿⣿⡿⡟⠏⠈⠓⣽⣿⣿⣿⣿⣿⣿⣿<br>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠫⠳⡤⢳⣿⣿⣿⣿⣿⣿⡧⢤⢻⢿⣋⠏⠀⠑⢱⣤⡀⢁⣿⣿⣿⣿⣷⣯⡟<br>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠫⣥⢿⣿⣿⣿⡿⢿⣶⣿⢿⣡⣴⢀⠂⡁⣩⣐⣮⣾⣿⣿⣿⣿⢿⣭⠁<br>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠋⠀⠑⣿⠃⠀⢹⢻⣷⣿⣿⣮⣼⣷⣿⣽⣿⣿⣿⣿⣿⣿⠋<br>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡏⠀⠀⢨⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣭<br>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⠁⠀⠠⣾⣿⣽⣰⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋<br>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠃⠀⠀⠀⠈⠻⣯⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇<br>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢉⣻⣿⣿⣿⣿
 
-###
+
