@@ -17,11 +17,8 @@
   
   <img src="https://github.com/user-attachments/assets/1d6d5613-18fa-43a4-9773-9600ded1e9fd" alt="She was a fairy" style="width:32%; margin-right: 2%;"/>
 
-  <a href="https://youtu.be/VIDEO_ID3" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO_ID3/0.jpg" alt="Video 3" style="width:32%;"/>
-  </a>
+  <img src="https://github.com/user-attachments/assets/8d1cf4b9-a920-4d1d-9dbe-2195d1495997" alt="She was a fairy" style="width:32%; margin-right: 2%;"/>
 </p>
-
 
 
 ### Mood:
