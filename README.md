@@ -8,6 +8,9 @@
 </p>
 
 
+[libraries.pdf](https://github.com/user-attachments/files/16852777/libraries.pdf)
+
+
 
 ![Screen Shot 2024-09-03 at 1 15 16 PM](https://github.com/user-attachments/assets/bf21de52-4e31-4980-bc32-170c98155c45)
 
