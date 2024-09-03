@@ -10,7 +10,9 @@
 
 
 
-### My day to day:
+<div align="center">
+  <span style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 46px; font-weight: bold;">My day to day:</span>
+</div>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5fa48fa2-acdc-476a-abb9-59aab3cdb839" alt="Fight Data Science Problem" width="300" height="250"/>
