@@ -1,6 +1,7 @@
 
-[present_me.pdf](https://github.com/user-attachments/files/16842735/present_me.pdf)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/files/16842735/present_me.pdf" alt="Presenting myself" width="500"/>
+</p>
 
 ### Mood:
 
