@@ -7,10 +7,6 @@
 ###
 ![fight_ds_problem](https://github.com/user-attachments/assets/5fa48fa2-acdc-476a-abb9-59aab3cdb839)
 
-<div align="center">
-  <img height="200" src="./samurai.gif" alt="Samurai GIF" />
-</div>
-
 ###
 
 <div align="left">
