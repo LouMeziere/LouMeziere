@@ -5,12 +5,11 @@
 <p align="left">Welcome to my repository guys! You found the space where I like to challenge myself and show off my little achievements. I hope you enjoy the tour.
   
 ###
+![fight_ds_problem](https://github.com/user-attachments/assets/5fa48fa2-acdc-476a-abb9-59aab3cdb839)
 
 <div align="center">
   <img height="200" src="./samurai.gif" alt="Samurai GIF" />
 </div>
-
-<h3 align="left">Languages</h3>
 
 ###
 
