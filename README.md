@@ -7,8 +7,9 @@
   <img src="https://github.com/user-attachments/files/16851728/languages.pdf" alt="languages" style="width:100%; height:auto;"/>
 </p>
 
-
-[libraries.pdf](https://github.com/user-attachments/files/16852777/libraries.pdf)
+<p align="center">
+  <img src="https://github.com/user-attachments/files/16852777/libraries.pdf" alt="libraries" style="width:100%; height:auto;"/>
+</p>
 
 
 
