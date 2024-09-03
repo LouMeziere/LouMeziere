@@ -30,10 +30,10 @@
 
 ###
 
-![Screen Shot 2024-09-03 at 1 15 16 PM](https://github.com/user-attachments/assets/bf21de52-4e31-4980-bc32-170c98155c45)
+![connect1](https://github.com/user-attachments/assets/12994820-c590-4ab5-97b4-a9839e23dadf)
 
-<h3 align="left">Connect with Me</h3>
-<div align="left">
+
+<div align="center">
   <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -42,7 +42,7 @@
   </a>
 </div>
 
-![Screen Shot 2024-09-03 at 1 15 32 PM](https://github.com/user-attachments/assets/cf02b241-7547-41ef-94d5-eee6356d8294)
+![connect2](https://github.com/user-attachments/assets/6174a473-f28a-4541-b512-4ecb2c944ed9)
 
 ###
 
