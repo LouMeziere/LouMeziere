@@ -1,10 +1,6 @@
-<h2 align="left">Lou Meziere - Data Science Enthusiast</h2>
 
----
+[present_me.pdf](https://github.com/user-attachments/files/16842735/present_me.pdf)
 
-<p align="left">Welcome to my repository, everyone! You've found the space where I love to challenge myself and showcase my projects I hope you enjoy the tour!</p>
-
----
 
 ### Mood:
 
@@ -21,22 +17,8 @@
 
 
 ###
-<h3 align="left">Languages</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-</div>
+
+[languages.pdf](https://github.com/user-attachments/files/16842841/languages.pdf)
 
 ###
 
