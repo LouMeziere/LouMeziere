@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">Greetings, noble traveler! Welcome to the repository of Lou Meziere, a data science enthusiast with the spirit of a warrior. Just as Mizu, the blue-eyed samurai, defied the odds with determination and perseverance, I harness the power of data science and machine learning to solve real-world problems and push the boundaries of innovation.</p>
-
+<p align="left">Welcome to my repository guys! You found the space where I like to challenge myself and show off my little achievements. I hope you enjoy the tour.
+  
 ###
 
 <div align="center">
