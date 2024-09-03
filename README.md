@@ -13,9 +13,9 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5fa48fa2-acdc-476a-abb9-59aab3cdb839" alt="Fight Data Science Problem" width="300" height="250"/>
-  <img src="https://github.com/user-attachments/assets/1d6d5613-18fa-43a4-9773-9600ded1e9fd" alt="She was a fairy" width="300" height="250"/>
-  <img src="https://github.com/user-attachments/assets/8d1cf4b9-a920-4d1d-9dbe-2195d1495997" alt="She was a fairy" width="300" height="250"/>
+  <img src="https://github.com/user-attachments/assets/5fa48fa2-acdc-476a-abb9-59aab3cdb839" alt="Fight Data Science Problem" width="150" height="125"/>
+  <img src="https://github.com/user-attachments/assets/1d6d5613-18fa-43a4-9773-9600ded1e9fd" alt="She was a fairy" width="150" height="125"/>
+  <img src="https://github.com/user-attachments/assets/8d1cf4b9-a920-4d1d-9dbe-2195d1495997" alt="She was a fairy" width="150" height="125"/>
 </p>
 
 ![Screen Shot 2024-09-03 at 1 15 32 PM](https://github.com/user-attachments/assets/cf02b241-7547-41ef-94d5-eee6356d8294)
