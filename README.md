@@ -4,8 +4,26 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/files/16842841/languages.pdf" alt="languages" style="width:100%; height:auto;"/>
+  <img src="https://github.com/user-attachments/files/16851728/languages.pdf" alt="languages" style="width:100%; height:auto;"/>
 </p>
+
+
+
+
+### My Journey in Videos:
+
+<p align="center">
+  <a href="https://youtu.be/VIDEO_ID1" target="_blank">
+    <img src="https://img.youtube.com/vi/VIDEO_ID1/0.jpg" alt="Video 1" style="width:30%; margin-right: 10px;"/>
+  </a>
+  <a href="https://youtu.be/VIDEO_ID2" target="_blank">
+    <img src="https://img.youtube.com/vi/VIDEO_ID2/0.jpg" alt="Video 2" style="width:30%; margin-right: 10px;"/>
+  </a>
+  <a href="https://youtu.be/VIDEO_ID3" target="_blank">
+    <img src="https://img.youtube.com/vi/VIDEO_ID3/0.jpg" alt="Video 3" style="width:30%;"/>
+  </a>
+</p>
+
 
 
 ### Mood:
@@ -49,44 +67,5 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/loumeziere/loumeziere/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Together, we shall wield the sword of data, battle the challenges of the unknown, and emerge victorious in the quest for knowledge and innovation.</p>
-
-###
-
-<p align="center">
-  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⣿⢻⣷⣾⢯⠐<br>
-  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠛⡻⠋⠈⠁⠊⠸⠧⢡⠘⠈⠁<br>
-  ⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⡿⣻⣿⢿⠻⠁⠀⠀⠀⠀⠀⠀<br>
-  ⡿⠩⠙⣟⢸⣸⡿⣿⣿⣿⣿⣿⠟⡜⠘⠁⠉⠀⠀⠀⠀⠀⠀⠀⠀<br>
-  ⠅⠁⠀⠠⠨⠷⡨⣟⠋⠓⠙⠊⠀⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⣤⣤⣤⣤⣤⣀⣀⣀<br>
-  ⠁⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⠟⠛<br>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠑⠛⠟⠙⠛⢻⣿⣿⣿⣿⣿⣟<br>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠞⣿⣿⣿⣿⣿⣿⠠<br>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣼⣿⣿⣿⣿⣿⣿<br>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢠⣴⣿⣿⣿⣿⣿⣿⣿⣯⣿⣄<br>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡀⠀⢀⡴⣾⣿⣿⣿⣿⣿⣿⣿⡟⣿⣿⣞⣦<br>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢉⣻⣾⣶⣾⣻⣿⡿⣿⣿⣟⡍⡲⣽⣯⠄⠬⣆<br>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂⠀⠀⠈⢐⠂⠒⠒⠋⠉⣹⣽⣩⢽⣿⡯⣽⠽⠋⢧⡳⣽⡿⣗⣡⡄⢚⡀<br>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠀⠀⢀⠠⣚⡾⠔⠊⠿⣩⢙⣩⣙⡷⢽⣻⣿⣿⡟⡅⡐⡎⢷⡀<br>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠤⠂⠉⠉⠀⠀⠠⠁⣼⣅⡺⠁⠚⣲⣯⣽⢿⣿⡟⡏⢷⣧⠾⣥<br>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠄⠊⠠⠠⠀⠠⡀⢀⡤⣁⢈⣞⡇⠔⠩⣝⣿⣾⣿⡿⣿⣧⡗⣿⣋⣭⡷⢃<br>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠶⠁⠀⠀⠀⠰⠂⠒⠸⠻⢿⣩⣿⢿⣷⠄⢠⣾⣿⣿⣿⣿⣽⣿⣷⣽⣭⣟⡔⠈⡆<br>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢄⠀⠀⠀⠠⠁⠀⠀⠀⢁⢐⡿⡿⣾⣽⣭⠛⠙⢻⣿⣿⣿⣿⣿⣿⣾⣿⣿⡿⠟⡛⡄<br>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢷⢄⠀⠎⠀⡴⢃⣀⠁⡰⠀⢘⣿⣿⡿⣞⣼⠻⣾⣿⣿⣿⣿⣿⣻⣿⣇⣏⣼⠇⠁<br>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠳⡓⣅⠐⠁⠀⠀⡜⠁⡀⣸⣿⣻⣭⣮⣴⠯⣟⣿⣿⣿⣿⣿⣿⣿⣿⢷⠁<br>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⡾⣾⣶⣄⣡⣞⡀⠀⡸⢿⣻⢩⣾⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣯⢸<br>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠊⠠⢱⣿⣿⣿⣿⣿⣿⣿⠗⡯⣷⣿⣿⡿⡟⠏⠈⠓⣽⣿⣿⣿⣿⣿⣿⣿<br>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠫⠳⡤⢳⣿⣿⣿⣿⣿⣿⡧⢤⢻⢿⣋⠏⠀⠑⢱⣤⡀⢁⣿⣿⣿⣿⣷⣯⡟<br>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠫⣥⢿⣿⣿⣿⡿⢿⣶⣿⢿⣡⣴⢀⠂⡁⣩⣐⣮⣾⣿⣿⣿⣿⢿⣭⠁<br>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠋⠀⠑⣿⠃⠀⢹⢻⣷⣿⣿⣮⣼⣷⣿⣽⣿⣿⣿⣿⣿⣿⠋<br>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡏⠀⠀⢨⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣭<br>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⠁⠀⠠⣾⣿⣽⣰⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋<br>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠃⠀⠀⠀⠈⠻⣯⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇<br>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢉⣻⣿⣿⣿⣿
 
 
