@@ -9,10 +9,8 @@
 
 
 
+![Screen Shot 2024-09-03 at 1 15 16 PM](https://github.com/user-attachments/assets/bf21de52-4e31-4980-bc32-170c98155c45)
 
-<div style="text-align: center; margin-bottom: 20px;">
-  <span style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 150px; font-weight: bold;">MY DAY TO DAY</span>
-</div>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5fa48fa2-acdc-476a-abb9-59aab3cdb839" alt="Fight Data Science Problem" width="300" height="250"/>
@@ -20,6 +18,7 @@
   <img src="https://github.com/user-attachments/assets/8d1cf4b9-a920-4d1d-9dbe-2195d1495997" alt="She was a fairy" width="300" height="250"/>
 </p>
 
+![Screen Shot 2024-09-03 at 1 15 32 PM](https://github.com/user-attachments/assets/cf02b241-7547-41ef-94d5-eee6356d8294)
 
 
 
