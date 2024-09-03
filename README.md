@@ -10,26 +10,16 @@
 
 
 
-### My Journey in Videos:
+### My dayly activities:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5fa48fa2-acdc-476a-abb9-59aab3cdb839" alt="Fight Data Science Problem" width="300"/>
-  <img src="https://github.com/user-attachments/assets/1d6d5613-18fa-43a4-9773-9600ded1e9fd" alt="She was a fairy" width="300"/>
-  <img src="https://github.com/user-attachments/assets/8d1cf4b9-a920-4d1d-9dbe-2195d1495997" alt="She was a fairy" width="300"/>
+  <img src="https://github.com/user-attachments/assets/5fa48fa2-acdc-476a-abb9-59aab3cdb839" alt="Fight Data Science Problem" width="300" height="200"/>
+  <img src="https://github.com/user-attachments/assets/1d6d5613-18fa-43a4-9773-9600ded1e9fd" alt="She was a fairy" width="300" height="200"/>
+  <img src="https://github.com/user-attachments/assets/8d1cf4b9-a920-4d1d-9dbe-2195d1495997" alt="She was a fairy" width="300" height="200"/>
 </p>
 
 
-### Mood:
 
-#### First 12 Hours of the Day
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5fa48fa2-acdc-476a-abb9-59aab3cdb839" alt="Fight Data Science Problem" width="500"/>
-</p>
-
-#### Second 12 Hours of the Day
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1d6d5613-18fa-43a4-9773-9600ded1e9fd" alt="She was a fairy" width="500"/>
-</p>
 
 
 
