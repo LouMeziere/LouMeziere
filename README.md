@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/files/16842735/present_me.pdf" alt="Presenting myself" width="500"/>
+  <img src="https://github.com/user-attachments/files/16842735/present_me.pdf" alt="Presenting myself" style="width:100%; height:auto;"/>
 </p>
 
 ### Mood:
