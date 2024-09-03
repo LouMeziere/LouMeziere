@@ -10,8 +10,8 @@
 
 
 
-<div align="center">
-  <span style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 46px; font-weight: bold;">My day to day:</span>
+<div align="center style="margin-bottom: 20px;">
+  <span style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 90px; font-weight: bold;">MY DAY TO DAY</span>
 </div>
 
 <p align="center">
