@@ -3,6 +3,11 @@
   <img src="https://github.com/user-attachments/files/16842735/present_me.pdf" alt="Presenting myself" style="width:100%; height:auto;"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/files/16842841/languages.pdf" alt="languages" style="width:100%; height:auto;"/>
+</p>
+
+
 ### Mood:
 
 #### First 12 Hours of the Day
@@ -19,7 +24,7 @@
 
 ###
 
-[languages.pdf](https://github.com/user-attachments/files/16842841/languages.pdf)
+
 
 ###
 
