@@ -13,14 +13,12 @@
 ### My Journey in Videos:
 
 <p align="center">
-  <p>
-  <img src="https://github.com/user-attachments/assets/5fa48fa2-acdc-476a-abb9-59aab3cdb839" alt="Fight Data Science Problem" width="500"/>
-  </p>
-  <p align="center">
-  <img src="https://github.com/user-attachments/assets/1d6d5613-18fa-43a4-9773-9600ded1e9fd" alt="She was a fairy" width="500"/>
-  </p>
+  <img src="https://github.com/user-attachments/assets/5fa48fa2-acdc-476a-abb9-59aab3cdb839" alt="Fight Data Science Problem" style="width:32%; margin-right: 2%;"/>
+  
+  <img src="https://github.com/user-attachments/assets/1d6d5613-18fa-43a4-9773-9600ded1e9fd" alt="She was a fairy" style="width:32%; margin-right: 2%;"/>
+
   <a href="https://youtu.be/VIDEO_ID3" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO_ID3/0.jpg" alt="Video 3" style="width:30%;"/>
+    <img src="https://img.youtube.com/vi/VIDEO_ID3/0.jpg" alt="Video 3" style="width:32%;"/>
   </a>
 </p>
 
