@@ -1,14 +1,27 @@
-<h2 align="left">Lou Meziere - Data Science Enthusiast </h2>
+<h2 align="left">Lou Meziere - Data Science Enthusiast</h2>
+
+---
+
+<p align="left">Welcome to my repository, everyone! You've found the space where I love to challenge myself and showcase my small yet meaningful achievements. I hope you enjoy the tour!</p>
+
+---
+
+### Mood:
+
+#### First 12 Hours of the Day
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5fa48fa2-acdc-476a-abb9-59aab3cdb839" alt="Fight Data Science Problem" width="500"/>
+</p>
+
+#### Second 12 Hours of the Day
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/53a2a3b5-aa96-48be-b622-0c8fb7e67132" alt="Relaxing After Work" width="500"/>
+</p>
+
+
 
 ###
-
-<p align="left">Welcome to my repository guys! You found the space where I like to challenge myself and show off my little achievements. I hope you enjoy the tour.
-  
-###
-![fight_ds_problem](https://github.com/user-attachments/assets/5fa48fa2-acdc-476a-abb9-59aab3cdb839)
-
-###
-
+<h3 align="left">Languages</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
